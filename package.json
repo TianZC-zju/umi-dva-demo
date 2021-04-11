@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@umijs/preset-react": "^1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "umi": "^3.4.8"
+  }
+}
